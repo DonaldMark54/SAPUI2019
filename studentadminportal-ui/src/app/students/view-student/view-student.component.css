@@ -1,0 +1,30 @@
+.top-row {
+  padding: 1em 0;
+}
+
+.mat-form-field {
+  width: 100%;
+}
+
+.image-container {
+  width: 100px;
+  height: 100px;
+  background-color: #f7f7f7;
+  border: 2px solid #cccc;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+}
+
+/* This controls the image inside the above referenced container */
+.image-container img {
+  width: 100px;
+}
+
+.my-container {
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+}
